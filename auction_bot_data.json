@@ -1,0 +1,2646 @@
+{
+  "tournaments": {
+    "__auto_posted__": {
+      "id": "__auto_posted__",
+      "name": "Gaming zone Premier League season 4 now registration open",
+      "spots": 100,
+      "owner_token": null,
+      "register_token": null,
+      "owner_chat_id": null,
+      "registrations": [
+        {
+          "id": "8bdcc3b0",
+          "user_id": 8006318210,
+          "name": "Sabito",
+          "username": "Mr_Sabiii",
+          "role": "All-Rounder",
+          "price": "3 CR",
+          "status": "declined",
+          "player_code": null
+        },
+        {
+          "id": "ef2f5d1d",
+          "user_id": 1766243373,
+          "name": "『Ｓａｍａｙ』",
+          "username": "Times_always_changes",
+          "role": "Batsman",
+          "price": "1 CR",
+          "status": "removed",
+          "player_code": "588"
+        },
+        {
+          "id": "0485a6dd",
+          "user_id": 7995262033,
+          "name": "𝑲𝑰𝑵𝑮 ˹𐩃𝑲˼║ ツ",
+          "username": "Nini_arhi",
+          "role": "Batsman",
+          "price": "3 CR",
+          "status": "accepted",
+          "player_code": "666"
+        },
+        {
+          "id": "8ca32680",
+          "user_id": 8014309669,
+          "name": "𝐑𝐩17 🦢",
+          "username": "Rp17_uk",
+          "role": "Batsman",
+          "price": "3 CR",
+          "status": "accepted",
+          "player_code": "695"
+        },
+        {
+          "id": "6e5eae86",
+          "user_id": 8108154162,
+          "name": "Florance",
+          "username": "",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "261"
+        },
+        {
+          "id": "e10c19ab",
+          "user_id": 8540932048,
+          "name": "DHRUV",
+          "username": "Dhruv_chtt",
+          "role": "All-Rounder",
+          "price": "3 CR",
+          "status": "accepted",
+          "player_code": "530"
+        },
+        {
+          "id": "a82be284",
+          "user_id": 7343683772,
+          "name": "Dr.Sirii",
+          "username": "Thesirii",
+          "role": "All-Rounder",
+          "price": "3 CR",
+          "status": "accepted",
+          "player_code": "228"
+        },
+        {
+          "id": "d32d9abe",
+          "user_id": 8267054355,
+          "name": "தென்றல்",
+          "username": "Thentendral",
+          "role": "All-Rounder",
+          "price": "2 CR",
+          "status": "accepted",
+          "player_code": "835"
+        },
+        {
+          "id": "ef20692c",
+          "user_id": 8523739681,
+          "name": "🦋⃟⃝🇦aຮhi𓆪➳",
+          "username": "Dracarys_Ashu",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "101"
+        },
+        {
+          "id": "2649f3db",
+          "user_id": 1096324142,
+          "name": "Glenn Almeida",
+          "username": "GlennAlmeida",
+          "role": "Batsman",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "294"
+        },
+        {
+          "id": "4567e34b",
+          "user_id": 7460266461,
+          "name": "ѕнυвн ☄",
+          "username": "ASTRO_SHUBH",
+          "role": "All-Rounder",
+          "price": "3 CR",
+          "status": "removed",
+          "player_code": "209"
+        },
+        {
+          "id": "2b525a6c",
+          "user_id": 1237753731,
+          "name": "🥀⃝➻𝐑𝐀𝐌𝐊𝐑𝐈𝐒𝐇𝐍𝐀❜𓆪⁩🕊️⃝𝄞⃟≛⃝",
+          "username": "Ramkrishna2378",
+          "role": "All-Rounder",
+          "price": "3 CR",
+          "status": "accepted",
+          "player_code": "649"
+        },
+        {
+          "id": "897b5be9",
+          "user_id": 8040919125,
+          "name": "𝄟≛⃝🇷oyalᏦιηG𝄟",
+          "username": "April_Born_Cute",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "914"
+        },
+        {
+          "id": "572833d1",
+          "user_id": 6728775009,
+          "name": "Shaukat Ali",
+          "username": "Shaukat_037",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "271"
+        },
+        {
+          "id": "5f30ed56",
+          "user_id": 7978013310,
+          "name": "Merry🐬",
+          "username": "Chocopie187",
+          "role": "All-Rounder",
+          "price": "2 CR",
+          "status": "declined",
+          "player_code": null
+        },
+        {
+          "id": "f3d92e9e",
+          "user_id": 8199739563,
+          "name": "𝐋𝐨𝐭𝐮𝐱🍁",
+          "username": "Itslotux",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "899"
+        },
+        {
+          "id": "256cc9b6",
+          "user_id": 8433896632,
+          "name": "ㅤ❍⏤͟͞•𝐒𝐀𝐍𝐃𝐘❜\"🍷",
+          "username": "Rulingtherule",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "372"
+        },
+        {
+          "id": "62a8fab0",
+          "user_id": 8479985151,
+          "name": "ɪ͢͢ᴛͥ͢ᴢ ⎯᪵⎯꯭‌❃꯭ꪜ꯭𝚫꯭ 𝚈꯭፝֟፝֟ 𝛅𝚜ʜ꯭͔ ᬽ꯭»꯭᭦꯭፝֟͠𝐔꯭⎯꯭꯭͓⃖⃖⎯꯭̽",
+          "username": "Queenyashuuuu",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "611"
+        },
+        {
+          "id": "f16199f5",
+          "user_id": 7760428650,
+          "name": "𝐄𝐜𝐥𝐢𝐩𝐬𝐞",
+          "username": "eclipsekrn",
+          "role": "All-Rounder",
+          "price": "3 CR",
+          "status": "accepted",
+          "player_code": "591"
+        },
+        {
+          "id": "c569ea07",
+          "user_id": 1923032408,
+          "name": "Hardik Pandya",
+          "username": "eagle7758",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "231"
+        },
+        {
+          "id": "a7f8cec6",
+          "user_id": 7747034961,
+          "name": "Sᴜʙʜ",
+          "username": "C_heeku18",
+          "role": "All-Rounder",
+          "price": "2 CR",
+          "status": "accepted",
+          "player_code": "077"
+        },
+        {
+          "id": "38d72039",
+          "user_id": 8228290186,
+          "name": "Vicky Kohli",
+          "username": "Itzzz_me_Vignesh",
+          "role": "All-Rounder",
+          "price": "2 CR",
+          "status": "accepted",
+          "player_code": "724"
+        },
+        {
+          "id": "ba804185",
+          "user_id": 8057515910,
+          "name": "ᴅʀ.ᴄᴀʀɪɴᴏ",
+          "username": "Doc_carino315",
+          "role": "Batsman",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "472"
+        },
+        {
+          "id": "308541b3",
+          "user_id": 776361017,
+          "name": "𝑨𝒓𝒋𝒖𝒏 🪽 🔥",
+          "username": "Arjun1813",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "771"
+        },
+        {
+          "id": "74d2e44f",
+          "user_id": 7961042242,
+          "name": "EL HALCON",
+          "username": "Val_Varde",
+          "role": "All-Rounder",
+          "price": "2 CR",
+          "status": "accepted",
+          "player_code": "011"
+        },
+        {
+          "id": "841d0ca7",
+          "user_id": 1473342200,
+          "name": "Suresh patel",
+          "username": "Mgtaj2005",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "952"
+        },
+        {
+          "id": "be11a251",
+          "user_id": 8359323959,
+          "name": "🆂🆃🅾🅽🅴🆁",
+          "username": "Stoner0011",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "064"
+        },
+        {
+          "id": "e7ef90c8",
+          "user_id": 830987369,
+          "name": "Galli Maxwell",
+          "username": "Fraud_Maxwell",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "894"
+        },
+        {
+          "id": "1eee6305",
+          "user_id": 7142058365,
+          "name": "Roman Reigns",
+          "username": "Tribalcheif0",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "984"
+        },
+        {
+          "id": "e86143b5",
+          "user_id": 8338008159,
+          "name": "⟨ 乙✧Ξ✧PH ⟩",
+          "username": "zeph_x",
+          "role": "Batsman",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "422"
+        },
+        {
+          "id": "81d19a78",
+          "user_id": 7462442453,
+          "name": "🕷️💥 𝐏𝐄𝐓𝐄𝐑 𝐏𝐀𝐑𝐊𝐄𝐑 💥🕷️",
+          "username": "peterparker400",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "776"
+        },
+        {
+          "id": "68ee049d",
+          "user_id": 6382283680,
+          "name": "Ashutosh",
+          "username": "Ashutosh_MSD",
+          "role": "Batsman",
+          "price": "3 CR",
+          "status": "accepted",
+          "player_code": "301"
+        },
+        {
+          "id": "ea4629b6",
+          "user_id": 8315916226,
+          "name": "—͟͞͞𝑹𝒆𝒉𝒂𝒏ㅤ",
+          "username": "Unique_Urbanitee",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "926"
+        },
+        {
+          "id": "de33cd9f",
+          "user_id": 8391128611,
+          "name": "Nexus",
+          "username": "Nexus_2819",
+          "role": "All-Rounder",
+          "price": "3 CR",
+          "status": "accepted",
+          "player_code": "158"
+        },
+        {
+          "id": "7ba1d4ca",
+          "user_id": 722120105,
+          "name": "Vijay 🧘",
+          "username": "Vijaysai_18",
+          "role": "All-Rounder",
+          "price": "3 CR",
+          "status": "accepted",
+          "player_code": "861"
+        },
+        {
+          "id": "b45c25aa",
+          "user_id": 7530665376,
+          "name": "𝐇𝐀𝐑𝐃𝐈𝐍𒆜➤𝐉𝐈𝐍𒆜",
+          "username": "JIN_007_N",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "465"
+        },
+        {
+          "id": "0786073c",
+          "user_id": 7738315891,
+          "name": "ᴄʟᴀᴜᴅᴇᴛᴛᴇ_",
+          "username": "Claudiaa_72",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "494"
+        },
+        {
+          "id": "39a37ced",
+          "user_id": 8049934625,
+          "name": "A-unknown-Person",
+          "username": "",
+          "role": "Bowler",
+          "price": "3 CR",
+          "status": "accepted",
+          "player_code": "176"
+        },
+        {
+          "id": "c5f22f72",
+          "user_id": 8234336128,
+          "name": "𝐑𝐀𝐒𝐇𝐌𝐈",
+          "username": "Its_Rashmiii",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "408"
+        },
+        {
+          "id": "900e22e4",
+          "user_id": 7480981150,
+          "name": "𝐍𝐈𝐓𝐇𝐈𝐒𝐇 𝜜𝟕𝜬 🏏🏆",
+          "username": "Enai_enn_kuptingo",
+          "role": "All-Rounder",
+          "price": "3 CR",
+          "status": "accepted",
+          "player_code": "847"
+        },
+        {
+          "id": "e157c9a3",
+          "user_id": 964423444,
+          "name": "Akhtar",
+          "username": "Srkianhun",
+          "role": "All-Rounder",
+          "price": "3 CR",
+          "status": "accepted",
+          "player_code": "640"
+        },
+        {
+          "id": "4e83e8a6",
+          "user_id": 1608402038,
+          "name": "Dugout",
+          "username": "Iyerrr_Idli",
+          "role": "Bowler",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "277"
+        },
+        {
+          "id": "ff4918ee",
+          "user_id": 1994505209,
+          "name": "𝐈𝐍𝐃𝐑𝐀𝐉𝐈𝐓 ️",
+          "username": "INDRAJIT_295",
+          "role": "All-Rounder",
+          "price": "3 CR",
+          "status": "accepted",
+          "player_code": "709"
+        },
+        {
+          "id": "c9e16e1a",
+          "user_id": 7422107306,
+          "name": "Gaurav",
+          "username": "Goatforareasonnn",
+          "role": "Batsman",
+          "price": "2 CR",
+          "status": "accepted",
+          "player_code": "958"
+        },
+        {
+          "id": "06b6b479",
+          "user_id": 7350687088,
+          "name": "AS..",
+          "username": "Rajawat_7",
+          "role": "Batsman",
+          "price": "2 CR",
+          "status": "accepted",
+          "player_code": "223"
+        },
+        {
+          "id": "89f81b14",
+          "user_id": 8420190765,
+          "name": "🤍",
+          "username": "Aishuuuu16",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "449"
+        },
+        {
+          "id": "b4a41200",
+          "user_id": 8275307900,
+          "name": "Cookie🍪",
+          "username": "Cozy_cookieee",
+          "role": "All-Rounder",
+          "price": "3 CR",
+          "status": "accepted",
+          "player_code": "691"
+        },
+        {
+          "id": "b080e733",
+          "user_id": 8434479905,
+          "name": "Pratik ☕",
+          "username": "pl8pl8",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "656"
+        },
+        {
+          "id": "b37d87fa",
+          "user_id": 7167530410,
+          "name": "ʍօռֆȶɛʀ",
+          "username": "keepp_silence",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "551"
+        },
+        {
+          "id": "c3eeefe9",
+          "user_id": 5378041046,
+          "name": "Manish Bishnoi",
+          "username": "",
+          "role": "Batsman",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "794"
+        },
+        {
+          "id": "7cd55ef5",
+          "user_id": 7064632109,
+          "name": "Mishuuu",
+          "username": "Bhagoyahanse",
+          "role": "All-Rounder",
+          "price": "2 CR",
+          "status": "accepted",
+          "player_code": "166"
+        },
+        {
+          "id": "1380e62a",
+          "user_id": 7641914661,
+          "name": "ㅤ𝐌𝝴፝֟𝝾𝞈",
+          "username": "Meow_chellam",
+          "role": "Batsman",
+          "price": "3 CR",
+          "status": "accepted",
+          "player_code": "504"
+        },
+        {
+          "id": "f48154f0",
+          "user_id": 7631260558,
+          "name": "Ɗeadթool",
+          "username": "SilentButDeadlyX",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "662"
+        },
+        {
+          "id": "23bcf145",
+          "user_id": 8214151150,
+          "name": "𝘈ѕн",
+          "username": "Arzen_lyre",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "355"
+        },
+        {
+          "id": "9051a6d8",
+          "user_id": 7560366347,
+          "name": "ƤƦƖƝƇЄ",
+          "username": "Axiomtic",
+          "role": "All-Rounder",
+          "price": "2 CR",
+          "status": "accepted",
+          "player_code": "197"
+        },
+        {
+          "id": "469415df",
+          "user_id": 7953556547,
+          "name": "❛ ◟🐣 ໍׅ𓂃𝗖𝐫𝐚𝐳𝐲 𝗚𝐮𝐫𝐥🎀🤍ᯓᡣ𐭩",
+          "username": "bottleku_10_ruba",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "523"
+        },
+        {
+          "id": "a303292c",
+          "user_id": 7662486115,
+          "name": "Zyrus",
+          "username": "ZyrusxStudy",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "413"
+        },
+        {
+          "id": "e6cf3acc",
+          "user_id": 1125191935,
+          "name": "Technical medico ⁪⁬⁮⁮⁮⁮ ‌‌‌‌",
+          "username": "Mr_Unique_Achyuth",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "306"
+        },
+        {
+          "id": "40da5ba8",
+          "user_id": 5845254367,
+          "name": "Alien 👾",
+          "username": "AlienPhionex",
+          "role": "All-Rounder",
+          "price": "2 CR",
+          "status": "accepted",
+          "player_code": "095"
+        },
+        {
+          "id": "2c74815b",
+          "user_id": 8353079084,
+          "name": "F U R Y",
+          "username": "PraiseTheFraud",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "025"
+        },
+        {
+          "id": "0bae651b",
+          "user_id": 7787846216,
+          "name": "ᴀᴋᴀᴢᴀ❄️ あ",
+          "username": "UP3Akaza",
+          "role": "All-Rounder",
+          "price": "3 CR",
+          "status": "accepted",
+          "player_code": "391"
+        },
+        {
+          "id": "d41d2692",
+          "user_id": 7371277092,
+          "name": "°❀⋆| 𝑺𝒉𝒊𝒗𝒂𝒏𝒊 ᥫ᭡",
+          "username": "Shivi_Ig",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "906"
+        },
+        {
+          "id": "7ba72870",
+          "user_id": 2083912476,
+          "name": "Mr Alpha",
+          "username": "Alpha_12345678910",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "206"
+        },
+        {
+          "id": "515534bd",
+          "user_id": 1336114764,
+          "name": "ARYAN",
+          "username": "Greatest_Of_All_the_Time_G_O_A_T",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "357"
+        },
+        {
+          "id": "2dd4c27e",
+          "user_id": 7460266461,
+          "name": "ѕнυвн ☄",
+          "username": "ASTRO_SHUBH",
+          "role": "All-Rounder",
+          "price": "3 CR",
+          "status": "declined",
+          "player_code": null
+        },
+        {
+          "id": "c549209b",
+          "user_id": 6976611030,
+          "name": "Marcus",
+          "username": "Marcus4417",
+          "role": "All-Rounder",
+          "price": "3 CR",
+          "status": "accepted",
+          "player_code": "900"
+        },
+        {
+          "id": "79507d7e",
+          "user_id": 6772160099,
+          "name": "—͟͞͞Jᴀᴄᴋs !!",
+          "username": "JACKS17",
+          "role": "All-Rounder",
+          "price": "3 CR",
+          "status": "accepted",
+          "player_code": "276"
+        },
+        {
+          "id": "b0e959bf",
+          "user_id": 1275737140,
+          "name": "Ꮧℓoηє ƙuи",
+          "username": "alone_kun",
+          "role": "Batsman",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "947"
+        },
+        {
+          "id": "0b930c09",
+          "user_id": 1505416555,
+          "name": "Samarendra sinha",
+          "username": "Samarendrasinha21",
+          "role": "All-Rounder",
+          "price": "2 CR",
+          "status": "accepted",
+          "player_code": "681"
+        },
+        {
+          "id": "7fa1f1e4",
+          "user_id": 7854968901,
+          "name": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ",
+          "username": "TechieSabby",
+          "role": "All-Rounder",
+          "price": "2 CR",
+          "status": "accepted",
+          "player_code": "023"
+        },
+        {
+          "id": "704a845e",
+          "user_id": 8507127683,
+          "name": "JHANVI",
+          "username": "Jhan5656",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "891"
+        },
+        {
+          "id": "50775ce6",
+          "user_id": 7548231103,
+          "name": "🄰🄿🅄🅁🄱🄰",
+          "username": "",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "668"
+        },
+        {
+          "id": "ee802225",
+          "user_id": 6163128641,
+          "name": "𝑺𝒂𝒕𝒚𝒂𝒎𓃵",
+          "username": "",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "855"
+        },
+        {
+          "id": "14df78ad",
+          "user_id": 8387898150,
+          "name": "ᴀʀꜱʜᴜ",
+          "username": "navya_Ak",
+          "role": "All-Rounder",
+          "price": "3 CR",
+          "status": "accepted",
+          "player_code": "397"
+        },
+        {
+          "id": "2d361f57",
+          "user_id": 8114359828,
+          "name": "BATMAN",
+          "username": "",
+          "role": "All-Rounder",
+          "price": "2 CR",
+          "status": "accepted",
+          "player_code": "021"
+        },
+        {
+          "id": "b4fa3614",
+          "user_id": 6111053232,
+          "name": "Ayush",
+          "username": "Ayyyyuuussh",
+          "role": "All-Rounder",
+          "price": "3 CR",
+          "status": "accepted",
+          "player_code": "148"
+        },
+        {
+          "id": "43b6dc2b",
+          "user_id": 8090905197,
+          "name": "Utkarsh Rajput' 🇮🇳",
+          "username": "UtkarshR4jput",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "930"
+        },
+        {
+          "id": "73a3b363",
+          "user_id": 636081313,
+          "name": "Harsh",
+          "username": "Harsh181204",
+          "role": "All-Rounder",
+          "price": "2 CR",
+          "status": "accepted",
+          "player_code": "553"
+        },
+        {
+          "id": "5403612c",
+          "user_id": 8380258375,
+          "name": "✨PRI 🩵",
+          "username": "boldo_na_zra",
+          "role": "All-Rounder",
+          "price": "2 CR",
+          "status": "accepted",
+          "player_code": "291"
+        },
+        {
+          "id": "3fd2eb34",
+          "user_id": 7293483416,
+          "name": "Akshay",
+          "username": "akshay_mm",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "190"
+        },
+        {
+          "id": "28499ec5",
+          "user_id": 6095820672,
+          "name": "KRRISH",
+          "username": "krrishuuuuuuuuu",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "041"
+        },
+        {
+          "id": "638ac629",
+          "user_id": 1177638565,
+          "name": "",
+          "username": "",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "707"
+        },
+        {
+          "id": "30e67405",
+          "user_id": 7017229170,
+          "name": "Shourya ( offline )",
+          "username": "shourya",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "005"
+        },
+        {
+          "id": "32260030",
+          "user_id": 8059397419,
+          "name": "Ｍａｘｘ",
+          "username": "iammaxx_772",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "006"
+        },
+        {
+          "id": "f79bd697",
+          "user_id": 6101780185,
+          "name": "Yaseen Iᵐメ ᵘᶻᵘᵐᵃᵏⁱメ渦巻",
+          "username": "Eternall_Last_Uchiha",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "420"
+        },
+        {
+          "id": "d4ecec6b",
+          "user_id": 6018581448,
+          "name": "vIsHaL",
+          "username": "vishaaal_oG",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "729"
+        },
+        {
+          "id": "7d3e3b19",
+          "user_id": 8223140123,
+          "name": "𝐄𝐧𝐲𝐨 🀢",
+          "username": "Dark_domein",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "714"
+        },
+        {
+          "id": "c8c28e16",
+          "user_id": 8494203476,
+          "name": "Simbu",
+          "username": "Prsimbu1",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "594"
+        },
+        {
+          "id": "cf5ad6ad",
+          "user_id": 6597202615,
+          "name": "Tulip 🌷",
+          "username": "Noturtulipbaabe",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "569"
+        },
+        {
+          "id": "b26f141b",
+          "user_id": 1888251452,
+          "name": "Fuzz",
+          "username": "faraaz04",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "004"
+        },
+        {
+          "id": "41f7b664",
+          "user_id": 8057741370,
+          "name": "꧁༒☬𝓖𝓸𝓴𝓾☬༒꧂",
+          "username": "GokuKakarot_Z",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "216"
+        },
+        {
+          "id": "29801cc2",
+          "user_id": 7235622730,
+          "name": "𝙑𝙞𝙨𝙝𝙪",
+          "username": "Melatonin_fr",
+          "role": "Bowler",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "956"
+        },
+        {
+          "id": "7c8431bc",
+          "user_id": 5211107633,
+          "name": "A",
+          "username": "adi_123765",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "893"
+        },
+        {
+          "id": "aeb31802",
+          "user_id": 8055682432,
+          "name": "anmol",
+          "username": "",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "117"
+        },
+        {
+          "id": "e1513674",
+          "user_id": 7991297524,
+          "name": "Mr.X",
+          "username": "caalmeeeeeX",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "527"
+        },
+        {
+          "id": "f2dac0af",
+          "user_id": 5543908277,
+          "name": "Ƃlαzҽ",
+          "username": "",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "676"
+        },
+        {
+          "id": "eacd2812",
+          "user_id": 7821901681,
+          "name": ".",
+          "username": "",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "550"
+        },
+        {
+          "id": "8af573ca",
+          "user_id": 7688734232,
+          "name": "𝐒ʜᴀʀᴍᴀ x13!!",
+          "username": "MagnusCarlsen9",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "311"
+        },
+        {
+          "id": "6aa9c1e4",
+          "user_id": 7439048075,
+          "name": "VS Sanji",
+          "username": "Sanji095",
+          "role": "All-Rounder",
+          "price": "2 CR",
+          "status": "accepted",
+          "player_code": "495"
+        },
+        {
+          "id": "b3fe7c14",
+          "user_id": 7636298287,
+          "name": "Anubhav Sinha ⧉",
+          "username": "Akasinhaa",
+          "role": "Bowler",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "761"
+        },
+        {
+          "id": "aeb72e93",
+          "user_id": 8389189310,
+          "name": "",
+          "username": "",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "738"
+        },
+        {
+          "id": "1ea9e838",
+          "user_id": 1375622473,
+          "name": "Aadi",
+          "username": "aadiii_14",
+          "role": "All-Rounder",
+          "price": "2 CR",
+          "status": "accepted",
+          "player_code": "350"
+        },
+        {
+          "id": "87aac975",
+          "user_id": 6779594218,
+          "name": "■",
+          "username": "",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "466"
+        },
+        {
+          "id": "aeade64b",
+          "user_id": 5250754665,
+          "name": "Yogesh 💸",
+          "username": "Yogyyii",
+          "role": "All-Rounder",
+          "price": "2 CR",
+          "status": "accepted",
+          "player_code": "458"
+        },
+        {
+          "id": "038e95dd",
+          "user_id": 2087533786,
+          "name": "Angad Kumar Shaw",
+          "username": "OpKarn69",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "635"
+        },
+        {
+          "id": "7e7db5ff",
+          "user_id": 6363269148,
+          "name": "💕✿Ꭺ𝗍𝗍𝒊𝗍𝒖𝐝ₑᶢ𝒊𝓻𝒍💕✿",
+          "username": "attitudegirl4328",
+          "role": "All-Rounder",
+          "price": "2 CR",
+          "status": "accepted",
+          "player_code": "718"
+        },
+        {
+          "id": "984b5b19",
+          "user_id": 8252670218,
+          "name": "𝐅𝐚𝐥𝐜𝐨𝐧 🦅⚡",
+          "username": "Carbohydrates07",
+          "role": "All-Rounder",
+          "price": "2 CR",
+          "status": "accepted",
+          "player_code": "154"
+        },
+        {
+          "id": "2120fa8b",
+          "user_id": 8210971271,
+          "name": "Rohan",
+          "username": "Rohan987000",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "626"
+        },
+        {
+          "id": "71d8d5d7",
+          "user_id": 8252416055,
+          "name": "⟵꯭᪵̽𓆩𝆬ͥ ⃪ᷟ ⃪꯭👻𝐂̶̶̶꯭ʜ꯭𝛐꯭𝘁͢𝘁͢𝐮̶꯭٭꯭𝆺𝅥⃐آ͢ ͜͡💖⃤",
+          "username": "iamjerry12",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "874"
+        },
+        {
+          "id": "6cfb29b4",
+          "user_id": 8136018064,
+          "name": "Anjali!!",
+          "username": "lowdrift",
+          "role": "Batsman",
+          "price": "2 CR",
+          "status": "accepted",
+          "player_code": "295"
+        },
+        {
+          "id": "2380bdcc",
+          "user_id": 2021610274,
+          "name": "Aditya Yadav",
+          "username": "Adityayadav2890",
+          "role": "All-Rounder",
+          "price": "2 CR",
+          "status": "accepted",
+          "player_code": "324"
+        },
+        {
+          "id": "17da2037",
+          "user_id": 7439862405,
+          "name": "Anuj sharma",
+          "username": "",
+          "role": "Batsman",
+          "price": "3 CR",
+          "status": "accepted",
+          "player_code": "293"
+        },
+        {
+          "id": "398ac7a2",
+          "user_id": 1915462304,
+          "name": "༄🌙『🔥⃝𑫏ᤌꪓ ത𑄛ധᰈᮀ།❥❥>💚",
+          "username": "Kdboi_25",
+          "role": "All-Rounder",
+          "price": "2 CR",
+          "status": "accepted",
+          "player_code": "793"
+        },
+        {
+          "id": "6d16d04b",
+          "user_id": 7962255988,
+          "name": "句 | Kᴜᴢᴇ",
+          "username": "TheWraither",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "090"
+        },
+        {
+          "id": "39fa0427",
+          "user_id": 7460266461,
+          "name": "ѕнυвн ☄",
+          "username": "ASTRO_SHUBH",
+          "role": "All-Rounder",
+          "price": "3 CR",
+          "status": "accepted",
+          "player_code": "728"
+        },
+        {
+          "id": "1a55aac8",
+          "user_id": 8490459993,
+          "name": "ᯓ𓆰𝚻 𝐈𝚼𝚲𝐒𝚮𝚲",
+          "username": "Ruchipuchi01",
+          "role": "All-Rounder",
+          "price": "2 CR",
+          "status": "accepted",
+          "player_code": "580"
+        },
+        {
+          "id": "21bbdfac",
+          "user_id": 7451838163,
+          "name": "ARM33N ⚔️",
+          "username": "Boobzigar",
+          "role": "All-Rounder",
+          "price": "1 CR",
+          "status": "accepted",
+          "player_code": "163"
+        },
+        {
+          "id": "5cb96f11",
+          "user_id": 8276354342,
+          "name": "PRANAV !",
+          "username": "Pranavjod",
+          "role": "All-Rounder",
+          "price": "2 CR",
+          "status": "accepted",
+          "player_code": "583"
+        },
+        {
+          "id": "be903aed",
+          "user_id": 2133944188,
+          "name": "Gaurav",
+          "username": "Lonewolf_0797",
+          "role": "All-Rounder",
+          "price": "2 CR",
+          "status": "accepted",
+          "player_code": "683"
+        },
+        {
+          "id": "cf42e25d",
+          "user_id": 2057716350,
+          "name": "KEN PROPHECY ~",
+          "username": "KEN_PROPHECY",
+          "role": "All-Rounder",
+          "price": "3 CR",
+          "status": "accepted",
+          "player_code": "641"
+        }
+      ],
+      "pending": {
+        "53cdc9cd": {
+          "id": "53cdc9cd",
+          "user_id": 6306216999,
+          "name": "渦巻『𝐓𝐇𝐀𝐍𝐎𝐒』⚜️🃏 #on a break",
+          "username": "TheConqueror_X_02",
+          "role": null,
+          "price": null,
+          "status": "draft",
+          "player_code": null
+        },
+        "0a89c764": {
+          "id": "0a89c764",
+          "user_id": 8006318210,
+          "name": "Sabito",
+          "username": "Mr_Sabiii",
+          "role": null,
+          "price": null,
+          "status": "draft",
+          "player_code": null
+        },
+        "0d07694f": {
+          "id": "0d07694f",
+          "user_id": 8507127683,
+          "name": "JHANVI",
+          "username": "Jhan5656",
+          "role": null,
+          "price": null,
+          "status": "draft",
+          "player_code": null
+        }
+      },
+      "is_posted": true,
+      "registration_open": true
+    }
+  },
+  "started_users": {
+    "8342170770": {
+      "id": 8342170770,
+      "first_name": "~𝐴𝑖𝑑𝑒𝑛𝑛",
+      "username": "deviant_aidenn"
+    },
+    "5564268264": {
+      "id": 5564268264,
+      "first_name": "Vedaaa 🎧ྀི",
+      "username": "veda_r"
+    },
+    "5698824333": {
+      "id": 5698824333,
+      "first_name": "ꪜꫀԃαꪀꪻι🥀ִִ ࣪⋆ ִֶָ",
+      "username": "krishns_princessuuu"
+    },
+    "6071610173": {
+      "id": 6071610173,
+      "first_name": "𒉭",
+      "username": "Selfless_se"
+    },
+    "7297151119": {
+      "id": 7297151119,
+      "first_name": "𝙱𝚕𝚊𝚣𝚎 =/ ❔",
+      "username": "Blazing_Blaz"
+    },
+    "8169445066": {
+      "id": 8169445066,
+      "first_name": "Giyü",
+      "username": "TitanPrime"
+    },
+    "6221043743": {
+      "id": 6221043743,
+      "first_name": "𝕭𝖎𝖘𝖜𝖆𝖏𝖎𝖙➪𝐕𝐊🅕︎🅐︎🅝︎",
+      "username": "VKRCB1845"
+    },
+    "8132004662": {
+      "id": 8132004662,
+      "first_name": "ᏕᏖᏒᏗᏇᏰᏋᏒᏒᎩ🍓",
+      "username": "chummu_daw"
+    },
+    "7879354072": {
+      "id": 7879354072,
+      "first_name": "Panther",
+      "username": "Gssnd"
+    },
+    "7820205451": {
+      "id": 7820205451,
+      "first_name": "Cassius",
+      "username": "lostinheavan"
+    },
+    "6132534453": {
+      "id": 6132534453,
+      "first_name": "༺Ayush",
+      "username": "Ayush5249"
+    },
+    "8485274569": {
+      "id": 8485274569,
+      "first_name": "AC",
+      "username": "Ak00983"
+    },
+    "5498446762": {
+      "id": 5498446762,
+      "first_name": "𝙰𝙼𝙰𝙽 𝙲𝙷𝙰𝙺𝚁𝙰𝚅𝙰𝚁𝚃𝙷𝚈",
+      "username": "Blooddysweet"
+    },
+    "8400440177": {
+      "id": 8400440177,
+      "first_name": "Thalapathy",
+      "username": "Jana_nayagan09"
+    },
+    "7899570763": {
+      "id": 7899570763,
+      "first_name": "sanchi🩵",
+      "username": "kishmishhoon"
+    },
+    "7460266461": {
+      "id": 7460266461,
+      "first_name": "ѕнυвн ☄",
+      "username": "ASTRO_SHUBH"
+    },
+    "8033592038": {
+      "id": 8033592038,
+      "first_name": "ꀭꂦꀘꍟꋪ₉₆",
+      "username": "Joker_9_6"
+    },
+    "6290508471": {
+      "id": 6290508471,
+      "first_name": "Khaled",
+      "username": "Khaled_shaik143"
+    },
+    "2006280559": {
+      "id": 2006280559,
+      "first_name": "Akash🫶",
+      "username": "goatkashfr"
+    },
+    "1353681168": {
+      "id": 1353681168,
+      "first_name": "Varun",
+      "username": "Varunhehe"
+    },
+    "7705355556": {
+      "id": 7705355556,
+      "first_name": "AbhisheK",
+      "username": "Venusius"
+    },
+    "1766243373": {
+      "id": 1766243373,
+      "first_name": "『Ｓａｍａｙ』",
+      "username": "Times_always_changes"
+    },
+    "5818981907": {
+      "id": 5818981907,
+      "first_name": "Lavannya",
+      "username": "Pixielavv"
+    },
+    "1290718679": {
+      "id": 1290718679,
+      "first_name": "Myth",
+      "username": "Huway_dog"
+    },
+    "1379214042": {
+      "id": 1379214042,
+      "first_name": "Suvam",
+      "username": "Suvam71"
+    },
+    "7995262033": {
+      "id": 7995262033,
+      "first_name": "𝑲𝑰𝑵𝑮 ˹𐩃𝑲˼║ ツ",
+      "username": "Nini_arhi"
+    },
+    "7879993882": {
+      "id": 7879993882,
+      "first_name": "Priyanuj🥂",
+      "username": "Priyanuj_Sakia"
+    },
+    "5733873751": {
+      "id": 5733873751,
+      "first_name": "Mystery smith",
+      "username": ""
+    },
+    "7702431836": {
+      "id": 7702431836,
+      "first_name": "Swadesh",
+      "username": "Swadesh_07"
+    },
+    "7438337804": {
+      "id": 7438337804,
+      "first_name": "HARSH",
+      "username": "Harsh_sinha0"
+    },
+    "5792495994": {
+      "id": 5792495994,
+      "first_name": "Minegamer987",
+      "username": "Minegamer28"
+    },
+    "1315564307": {
+      "id": 1315564307,
+      "first_name": "𝗣𝗥𝗔𝗧𝗘𝗘𝗞𓆪ꪾ°‌⋆",
+      "username": "nooot_your_type"
+    },
+    "8404996132": {
+      "id": 8404996132,
+      "first_name": "Ayush",
+      "username": "Ayush_Boii"
+    },
+    "7577674783": {
+      "id": 7577674783,
+      "first_name": "Yash",
+      "username": "The_another_onee"
+    },
+    "7687204532": {
+      "id": 7687204532,
+      "first_name": "STRAC",
+      "username": "Adiverseone"
+    },
+    "8106518860": {
+      "id": 8106518860,
+      "first_name": "𝙈𝙖𝙣𝙟𝙚𝙚𝙩 𝙔𝙖𝙙𝙖𝙫",
+      "username": "Manjeeeet"
+    },
+    "5024332265": {
+      "id": 5024332265,
+      "first_name": "Khushi❤️",
+      "username": ""
+    },
+    "1096324142": {
+      "id": 1096324142,
+      "first_name": "Glenn",
+      "username": "GlennAlmeida"
+    },
+    "7704409461": {
+      "id": 7704409461,
+      "first_name": "𝘽𝙇𝙐𝙉𝘿𝙀𝙍 𝙊𝙋",
+      "username": "BlunderOpIsBack"
+    },
+    "8384400510": {
+      "id": 8384400510,
+      "first_name": "Cherry barb",
+      "username": "Winterr_nig8"
+    },
+    "8108154162": {
+      "id": 8108154162,
+      "first_name": "Florance",
+      "username": ""
+    },
+    "2033688925": {
+      "id": 2033688925,
+      "first_name": "Yash Rathee",
+      "username": "yashrathee11"
+    },
+    "7985487301": {
+      "id": 7985487301,
+      "first_name": "Ａｃｈｙｕｔａｎ",
+      "username": "Achyutha_Nandha"
+    },
+    "1237753731": {
+      "id": 1237753731,
+      "first_name": "🥀⃝➻𝐑𝐀𝐌𝐊𝐑𝐈𝐒𝐇𝐍𝐀❜𓆪⁩🕊️⃝𝄞⃟≛⃝",
+      "username": "Ramkrishna2378"
+    },
+    "5918455847": {
+      "id": 5918455847,
+      "first_name": "The Ashura",
+      "username": "DexterousX"
+    },
+    "6901338730": {
+      "id": 6901338730,
+      "first_name": "Prem 🤍🧿",
+      "username": ""
+    },
+    "7133622599": {
+      "id": 7133622599,
+      "first_name": "Devu",
+      "username": "Devanshipradhan3"
+    },
+    "6320986861": {
+      "id": 6320986861,
+      "first_name": "TEJU",
+      "username": "Tejugoud0731"
+    },
+    "5296969457": {
+      "id": 5296969457,
+      "first_name": "Babai",
+      "username": "Babai9070"
+    },
+    "8490459993": {
+      "id": 8490459993,
+      "first_name": "ᯓ𓆰𝚻 𝐈𝚼𝚲𝐒𝚮𝚲",
+      "username": "Ruchipuchi01"
+    },
+    "5924882336": {
+      "id": 5924882336,
+      "first_name": "The Forgotten One",
+      "username": "Hm_mmm_mm_mm"
+    },
+    "8317381023": {
+      "id": 8317381023,
+      "first_name": "ʂᏂ𝐚ị𝘃γ𝐚",
+      "username": "Cozy_cookiee"
+    },
+    "7732775532": {
+      "id": 7732775532,
+      "first_name": "🌸ᏒᎧᏒᎩ🌸",
+      "username": "Rory_0527"
+    },
+    "8179658268": {
+      "id": 8179658268,
+      "first_name": "🍁🎶🍁🎵🍁",
+      "username": "Arshu_1011"
+    },
+    "7395305020": {
+      "id": 7395305020,
+      "first_name": "🇨 🇭 🇦 🇷 🇱 🇮 🇪",
+      "username": "Tamilchad"
+    },
+    "6045259562": {
+      "id": 6045259562,
+      "first_name": "Mourya 🔱🔥💯i",
+      "username": "Unknown_guy_0004"
+    },
+    "5930803951": {
+      "id": 5930803951,
+      "first_name": "R I K",
+      "username": "Og_Rik"
+    },
+    "5652458239": {
+      "id": 5652458239,
+      "first_name": "Aksh",
+      "username": "Aksh_gl17"
+    },
+    "7935364820": {
+      "id": 7935364820,
+      "first_name": "Raviii",
+      "username": "Ravieog"
+    },
+    "8198140355": {
+      "id": 8198140355,
+      "first_name": "𝖕𝖍𝖊𝖓𝖔𝖒𝖊𝖓𝖆𝖑 🪽",
+      "username": "Henry7838"
+    },
+    "7167530410": {
+      "id": 7167530410,
+      "first_name": "ʍօռֆȶɛʀ",
+      "username": "keepp_silence"
+    },
+    "776361017": {
+      "id": 776361017,
+      "first_name": "𝑨𝒓𝒋𝒖𝒏 🪽 🔥",
+      "username": "Arjun1813"
+    },
+    "8347851906": {
+      "id": 8347851906,
+      "first_name": "⫷ 𝒁𝒐𝒚𝒂 ⫸",
+      "username": "Zoyi_28"
+    },
+    "7892713147": {
+      "id": 7892713147,
+      "first_name": "Comex Leard",
+      "username": "Learndddya"
+    },
+    "8272828005": {
+      "id": 8272828005,
+      "first_name": "🎭𝘴𝛆𝛈𓋜‌ʀ‌𝛊𝛕𝛂‌ ✘『𝓑𝓻𝓪𝓷𝓭𝔂 』🪄",
+      "username": "Its_Brand_Sen_Senorita"
+    },
+    "1373884839": {
+      "id": 1373884839,
+      "first_name": "APPU",
+      "username": "APPUCHEEKU"
+    },
+    "8450776231": {
+      "id": 8450776231,
+      "first_name": "Amaya",
+      "username": "Heygoogleokgoogle"
+    },
+    "8084391390": {
+      "id": 8084391390,
+      "first_name": "ᴀʙɪɴᴀꜱʜ",
+      "username": "Midnight_TearX"
+    },
+    "6143400398": {
+      "id": 6143400398,
+      "first_name": "Tanya.one8",
+      "username": "Tanyaone8"
+    },
+    "8258795528": {
+      "id": 8258795528,
+      "first_name": "⏤‌🇲🇦𒌋꯭꯭꛱𓄂꯭꯭꯭𝐌ᴇᴇʀᴀ⚡«𝐃ʏ💤 ﮩﮩ٨ــ❤️‍🩹",
+      "username": "chikko420"
+    },
+    "7740827258": {
+      "id": 7740827258,
+      "first_name": "ᴄʜᴇᴛʜᴜ",
+      "username": "Che_thuuu"
+    },
+    "8040919125": {
+      "id": 8040919125,
+      "first_name": "𝄟≛⃝🇷oyalᏦιηG𝄟",
+      "username": "April_Born_Cute"
+    },
+    "6931520158": {
+      "id": 6931520158,
+      "first_name": "𝓡𝓾𝓭𝓻𝓪 𝓟𝓻𝓪𝓽𝓪𝓹 𝓣𝓲𝔀𝓪𝓻𝓲",
+      "username": "rpt8081"
+    },
+    "8172702210": {
+      "id": 8172702210,
+      "first_name": "Harsh",
+      "username": "xD_HARSH"
+    },
+    "7321249906": {
+      "id": 7321249906,
+      "first_name": "Romeo Inga Juliet Enga",
+      "username": "romeo_inga_juliet_engaa"
+    },
+    "8487587079": {
+      "id": 8487587079,
+      "first_name": "Shivaay",
+      "username": "Manav2112"
+    },
+    "8215873595": {
+      "id": 8215873595,
+      "first_name": "HITMAN",
+      "username": "Hitttman_45"
+    },
+    "7462442453": {
+      "id": 7462442453,
+      "first_name": "🕷️💥 𝐏𝐄𝐓𝐄𝐑 𝐏𝐀𝐑𝐊𝐄𝐑 💥🕷️",
+      "username": "peterparker400"
+    },
+    "6019388925": {
+      "id": 6019388925,
+      "first_name": "🤍JOHN KEATS🤍",
+      "username": "Tomar_babar_jamaiii"
+    },
+    "5333237121": {
+      "id": 5333237121,
+      "first_name": "Batman",
+      "username": "TheKnightFromTheHell"
+    },
+    "5601110193": {
+      "id": 5601110193,
+      "first_name": "Chirag",
+      "username": "Oval_127"
+    },
+    "8258370633": {
+      "id": 8258370633,
+      "first_name": "ASUxSpower19",
+      "username": "Doc_Supreme"
+    },
+    "8391128611": {
+      "id": 8391128611,
+      "first_name": "Nexus",
+      "username": "Nexus_2819"
+    },
+    "8252416055": {
+      "id": 8252416055,
+      "first_name": "⟵꯭᪵̽𓆩𝆬ͥ ⃪ᷟ ⃪꯭👻𝐂̶̶̶꯭ʜ꯭𝛐꯭𝘁͢𝘁͢𝐮̶꯭٭꯭𝆺𝅥⃐آ͢ ͜͡💖⃤",
+      "username": "iamjerry12"
+    },
+    "5687899185": {
+      "id": 5687899185,
+      "first_name": "Dineth",
+      "username": "DiNeth499"
+    },
+    "1442553849": {
+      "id": 1442553849,
+      "first_name": "𝗛𝗼𝗿𝗿𝗶𝗱 𝗛𝗲𝗻𝗿𝘆🧃",
+      "username": "Solo_prince028"
+    },
+    "8195485245": {
+      "id": 8195485245,
+      "first_name": "⎯꯭‌⋆𝐌ѕ༏⇆ꪲ𝐀ʟᴇᴇɴᴀ⋆ꨮ🅜︎🅘︎🅑🅛™⁷⁰⁷།ᬃ꯭💗𓆪꯭",
+      "username": "Aleena_lovely"
+    },
+    "6393380026": {
+      "id": 6393380026,
+      "first_name": "Aditya",
+      "username": "adihubhai"
+    },
+    "642154942": {
+      "id": 642154942,
+      "first_name": "Doc",
+      "username": "Jinx3690"
+    },
+    "8310489974": {
+      "id": 8310489974,
+      "first_name": "꧁☠GнσรT☯R¡dεR☠꧂",
+      "username": "Roc_City_Ace"
+    },
+    "1322557519": {
+      "id": 1322557519,
+      "first_name": "Alex",
+      "username": "Tyson_777"
+    },
+    "6728265816": {
+      "id": 6728265816,
+      "first_name": "🌙『╰❥︎🔥⃝ཏ᭄လറ ] 𖧹❥:⋆ ༄🌙 💚",
+      "username": "Nila_nee_vaanam_naan"
+    },
+    "7451838163": {
+      "id": 7451838163,
+      "first_name": "ARM33N ⚔️",
+      "username": "Boobzigar"
+    },
+    "8129698205": {
+      "id": 8129698205,
+      "first_name": "𝐎 𝐌 🐉",
+      "username": "OM_0mm"
+    },
+    "7446008575": {
+      "id": 7446008575,
+      "first_name": "⎯꯭̐💘꯭͛ᨳ̈́𝐅̤𝐚۬ؖ፝֟͜𝐭𝐡̼𝐢🪷𝐀͢𝐳۬ؖ֟፝𝐫𝐚§⏤⃝⃪꯭🦋",
+      "username": "Fathi753ABI"
+    },
+    "7439857053": {
+      "id": 7439857053,
+      "first_name": "RAJ",
+      "username": ""
+    },
+    "7515431605": {
+      "id": 7515431605,
+      "first_name": "Moh",
+      "username": "Huway_bitch"
+    },
+    "8010719428": {
+      "id": 8010719428,
+      "first_name": "🌷",
+      "username": ""
+    },
+    "8385986087": {
+      "id": 8385986087,
+      "first_name": "Anshu",
+      "username": ""
+    },
+    "8373075012": {
+      "id": 8373075012,
+      "first_name": "Narendra Modi",
+      "username": "TiwariPrince123"
+    },
+    "7988940806": {
+      "id": 7988940806,
+      "first_name": "हिमेश",
+      "username": "Beulga007"
+    },
+    "7422107306": {
+      "id": 7422107306,
+      "first_name": "Gaurav",
+      "username": "Goatforareasonnn"
+    },
+    "964423444": {
+      "id": 964423444,
+      "first_name": "Akhtar",
+      "username": "Srkianhun"
+    },
+    "8352761196": {
+      "id": 8352761196,
+      "first_name": "Ediivaaaaa!",
+      "username": ""
+    },
+    "7814263446": {
+      "id": 7814263446,
+      "first_name": "KÎRCHÖFF",
+      "username": "Lostlove_15"
+    },
+    "6523567365": {
+      "id": 6523567365,
+      "first_name": "ׇ╺◜⳯⳱⦁◝ׇ⳯⳱| ֟፝🆂🆅🅳֟፝ ⋆[🎮.᪱᪾ᬃ͎֟፝͠𝙎𝑴𝑰𝑳𝑬🎮᪱]𑇟𑌃🔥",
+      "username": "SMILE8838"
+    },
+    "7747034961": {
+      "id": 7747034961,
+      "first_name": "Sᴜʙʜ",
+      "username": "C_heeku18"
+    },
+    "564483410": {
+      "id": 564483410,
+      "first_name": "ㅤAD1TYA_🖤",
+      "username": "UltraBoy0"
+    },
+    "6124636531": {
+      "id": 6124636531,
+      "first_name": "ayushman",
+      "username": "kohli_82"
+    },
+    "7506694695": {
+      "id": 7506694695,
+      "first_name": "Torpedo",
+      "username": "torpedo_7"
+    },
+    "8308975113": {
+      "id": 8308975113,
+      "first_name": "𝂊𝇄🤍𝐌‌֟፝ᴀᴍᴀ𝐊ᴜᴛᴛʏ🗡️࿐",
+      "username": "Mamakutty7"
+    },
+    "8072261750": {
+      "id": 8072261750,
+      "first_name": "要 𝙯𝙚𝙣𝙞𝙩𝙨𝙪⚡ツ",
+      "username": "zenitsu_DemonS"
+    },
+    "5013253973": {
+      "id": 5013253973,
+      "first_name": "Virendra_18",
+      "username": "Viren2213"
+    },
+    "7194451861": {
+      "id": 7194451861,
+      "first_name": "Vedant🧿",
+      "username": "Vedant13"
+    },
+    "6191787531": {
+      "id": 6191787531,
+      "first_name": "⏤꯭꯭⃜⏤͟͟͞͞⃝🤍քֆʏƈɦօ𝐐𝖚𝖊̤᪲᪳𝖊𝖓ࡄ𓂃🖤",
+      "username": "Alone_frever_13"
+    },
+    "861966399": {
+      "id": 861966399,
+      "first_name": "Akshay",
+      "username": "Akshayngo"
+    },
+    "7872685998": {
+      "id": 7872685998,
+      "first_name": "ᴘʜᴏᴇɴɪx",
+      "username": "PHO_niexx"
+    },
+    "7030855812": {
+      "id": 7030855812,
+      "first_name": "𝑨𝒍𝒑𝒉𝒂",
+      "username": "Blade_Runneerr"
+    },
+    "6148665855": {
+      "id": 6148665855,
+      "first_name": "Krυtik...💞",
+      "username": "krutik_08_06"
+    },
+    "7780049233": {
+      "id": 7780049233,
+      "first_name": "Buttler",
+      "username": "Okbro012"
+    },
+    "5646547723": {
+      "id": 5646547723,
+      "first_name": "⏤‌🇲🇪𒌋꯭꯭꛱𓄂꯭꯭꯭𝐉ᴇɴɴɪ⚡«𝐃ʏ💤 ﮩﮩ٨ــ👿",
+      "username": "ajieee_official"
+    },
+    "7961042242": {
+      "id": 7961042242,
+      "first_name": "EL HALCON",
+      "username": "Val_Varde"
+    },
+    "7248284842": {
+      "id": 7248284842,
+      "first_name": "Muhammed",
+      "username": "SchAdEn_Freudee"
+    },
+    "8078803286": {
+      "id": 8078803286,
+      "first_name": "Suneo",
+      "username": "Chupkar7384838"
+    },
+    "8499787965": {
+      "id": 8499787965,
+      "first_name": "Cookie🍪",
+      "username": ""
+    },
+    "7590877751": {
+      "id": 7590877751,
+      "first_name": "𝐒𝐇𝐈𝐕𝐀𝐌_𝐱𝐃",
+      "username": "ll_SHIVAM_xD_ll"
+    },
+    "7996067850": {
+      "id": 7996067850,
+      "first_name": "𝑺𝒉𝒖𝒃𝒉𝒂𝒎",
+      "username": ""
+    },
+    "5932178880": {
+      "id": 5932178880,
+      "first_name": "✨꧁ ʀɪʏᴀᴢ ꧂✨",
+      "username": "Riyaz_ille"
+    },
+    "8417766611": {
+      "id": 8417766611,
+      "first_name": "Sun",
+      "username": "Hostaddme"
+    },
+    "6306216999": {
+      "id": 6306216999,
+      "first_name": "渦巻『𝐓𝐇𝐀𝐍𝐎𝐒』⚜️🃏 #on a break",
+      "username": "TheConqueror_X_02"
+    },
+    "7935301771": {
+      "id": 7935301771,
+      "first_name": "ᴛɢʀ",
+      "username": "TGR_67"
+    },
+    "7351707608": {
+      "id": 7351707608,
+      "first_name": "Farhan",
+      "username": "Rafkrs"
+    },
+    "8136596376": {
+      "id": 8136596376,
+      "first_name": "❛ .𝁘ໍ 𝐑‌‌σ‌σͱ꧊𓂃𐙚‌",
+      "username": "WhoRooh"
+    },
+    "6929401281": {
+      "id": 6929401281,
+      "first_name": "Neeli Salwar",
+      "username": "Virat_goat18"
+    },
+    "1638697019": {
+      "id": 1638697019,
+      "first_name": "Jatin 05 elite bnda",
+      "username": "AimbotOFFICIAL"
+    },
+    "6897383492": {
+      "id": 6897383492,
+      "first_name": "H",
+      "username": "Tubelight880"
+    },
+    "7536065689": {
+      "id": 7536065689,
+      "first_name": "ỉ𝗌ꫝα..♡",
+      "username": "Isha_Jangir"
+    },
+    "8278117267": {
+      "id": 8278117267,
+      "first_name": "AI",
+      "username": "The_underdogg"
+    },
+    "7990989541": {
+      "id": 7990989541,
+      "first_name": "Arvind",
+      "username": "Vedant6386"
+    },
+    "7343683772": {
+      "id": 7343683772,
+      "first_name": "Dr.Sirii",
+      "username": "THESIRII"
+    },
+    "8049934625": {
+      "id": 8049934625,
+      "first_name": "A-unknown-Person",
+      "username": ""
+    },
+    "6639987010": {
+      "id": 6639987010,
+      "first_name": "Marcus",
+      "username": "marccciiiee_10"
+    },
+    "7978013310": {
+      "id": 7978013310,
+      "first_name": "Merry🐬",
+      "username": "Chocopie187"
+    },
+    "8311540124": {
+      "id": 8311540124,
+      "first_name": "Tariki",
+      "username": ""
+    },
+    "8006318210": {
+      "id": 8006318210,
+      "first_name": "Sabito",
+      "username": "Mr_Sabiii"
+    },
+    "8014309669": {
+      "id": 8014309669,
+      "first_name": "𝐑𝐩17 🦢",
+      "username": "Rp17_uk"
+    },
+    "8540932048": {
+      "id": 8540932048,
+      "first_name": "DHRUV",
+      "username": "Dhruv_chtt"
+    },
+    "8267054355": {
+      "id": 8267054355,
+      "first_name": "தென்றல்",
+      "username": "Thentendral"
+    },
+    "8523739681": {
+      "id": 8523739681,
+      "first_name": "🦋⃟⃝🇦aຮhi𓆪➳",
+      "username": "Dracarys_Ashu"
+    },
+    "6728775009": {
+      "id": 6728775009,
+      "first_name": "Shaukat",
+      "username": "Shaukat_037"
+    },
+    "8433896632": {
+      "id": 8433896632,
+      "first_name": "ㅤ❍⏤͟͞•𝐒𝐀𝐍𝐃𝐘❜\"🍷",
+      "username": "Rulingtherule"
+    },
+    "8199739563": {
+      "id": 8199739563,
+      "first_name": "𝐋𝐨𝐭𝐮𝐱🍁",
+      "username": "Itslotux"
+    },
+    "8479985151": {
+      "id": 8479985151,
+      "first_name": "ɪ͢͢ᴛͥ͢ᴢ ⎯᪵⎯꯭‌❃꯭ꪜ꯭𝚫꯭ 𝚈꯭፝֟፝֟ 𝛅𝚜ʜ꯭͔ ᬽ꯭»꯭᭦꯭፝֟͠𝐔꯭⎯꯭꯭͓⃖⃖⎯꯭̽",
+      "username": "Queenyashuuuu"
+    },
+    "7760428650": {
+      "id": 7760428650,
+      "first_name": "𝐄𝐜𝐥𝐢𝐩𝐬𝐞",
+      "username": "eclipsekrn"
+    },
+    "1923032408": {
+      "id": 1923032408,
+      "first_name": "Hardik",
+      "username": "eagle7758"
+    },
+    "8359323959": {
+      "id": 8359323959,
+      "first_name": "🆂🆃🅾🅽🅴🆁",
+      "username": "Stoner0011"
+    },
+    "8228290186": {
+      "id": 8228290186,
+      "first_name": "Vicky",
+      "username": "Itzzz_me_Vignesh"
+    },
+    "8057515910": {
+      "id": 8057515910,
+      "first_name": "ᴅʀ.ᴄᴀʀɪɴᴏ",
+      "username": "Doc_carino315"
+    },
+    "1473342200": {
+      "id": 1473342200,
+      "first_name": "Suresh patel",
+      "username": "Mgtaj2005"
+    },
+    "7142058365": {
+      "id": 7142058365,
+      "first_name": "Roman Reigns",
+      "username": "Tribalcheif0"
+    },
+    "830987369": {
+      "id": 830987369,
+      "first_name": "Galli",
+      "username": "Fraud_Maxwell"
+    },
+    "8338008159": {
+      "id": 8338008159,
+      "first_name": "⟨ 乙✧Ξ✧PH ⟩",
+      "username": "zeph_x"
+    },
+    "657347716": {
+      "id": 657347716,
+      "first_name": "C T",
+      "username": "Nooneisabovegod"
+    },
+    "6382283680": {
+      "id": 6382283680,
+      "first_name": "Ashutosh",
+      "username": "Ashutosh_MSD"
+    },
+    "8315916226": {
+      "id": 8315916226,
+      "first_name": "—͟͞͞𝑹𝒆𝒉𝒂𝒏ㅤ",
+      "username": "Unique_Urbanitee"
+    },
+    "7530665376": {
+      "id": 7530665376,
+      "first_name": "𝐇𝐀𝐑𝐃𝐈𝐍𒆜➤𝐉𝐈𝐍𒆜",
+      "username": "JIN_007_N"
+    },
+    "722120105": {
+      "id": 722120105,
+      "first_name": "Vijay 🧘",
+      "username": "Vijaysai_18"
+    },
+    "7738315891": {
+      "id": 7738315891,
+      "first_name": "ᴄʟᴀᴜᴅᴇᴛᴛᴇ_",
+      "username": "Claudiaa_72"
+    },
+    "7953556547": {
+      "id": 7953556547,
+      "first_name": "❛ ◟🐣 ໍׅ𓂃𝗖𝐫𝐚𝐳𝐲 𝗚𝐮𝐫𝐥🎀🤍ᯓᡣ𐭩",
+      "username": "bottleku_10_ruba"
+    },
+    "8505845096": {
+      "id": 8505845096,
+      "first_name": "𝝙𝝟⁴⁵",
+      "username": "badassmah"
+    },
+    "8234336128": {
+      "id": 8234336128,
+      "first_name": "𝐑𝐀𝐒𝐇𝐌𝐈",
+      "username": "Its_Rashmiii"
+    },
+    "8438720197": {
+      "id": 8438720197,
+      "first_name": "ᘜꪶꪊᝯׁƙׁׅ֑ 🫧",
+      "username": "Gluck0007"
+    },
+    "7480981150": {
+      "id": 7480981150,
+      "first_name": "𝐍𝐈𝐓𝐇𝐈𝐒𝐇 𝜜𝟕𝜬 🏏🏆",
+      "username": "Enai_enn_kuptingo"
+    },
+    "1608402038": {
+      "id": 1608402038,
+      "first_name": "Dugout",
+      "username": "Iyerrr_Idli"
+    },
+    "7350687088": {
+      "id": 7350687088,
+      "first_name": "AS..",
+      "username": "Rajawat_7"
+    },
+    "1994505209": {
+      "id": 1994505209,
+      "first_name": "𝐈𝐍𝐃𝐑𝐀𝐉𝐈𝐓",
+      "username": "INDRAJIT_295"
+    },
+    "8420190765": {
+      "id": 8420190765,
+      "first_name": "🤍",
+      "username": "Aishuuuu16"
+    },
+    "8275307900": {
+      "id": 8275307900,
+      "first_name": "Cookie🍪",
+      "username": "Cozy_cookieee"
+    },
+    "8434479905": {
+      "id": 8434479905,
+      "first_name": "Pratik ☕",
+      "username": "pl8pl8"
+    },
+    "7064632109": {
+      "id": 7064632109,
+      "first_name": "Mishuuu",
+      "username": "Bhagoyahanse"
+    },
+    "5378041046": {
+      "id": 5378041046,
+      "first_name": "Manish Bishnoi",
+      "username": ""
+    },
+    "7641914661": {
+      "id": 7641914661,
+      "first_name": "ㅤ𝐌𝝴፝֟𝝾𝞈",
+      "username": "Meow_chellam"
+    },
+    "1177638565": {
+      "id": 1177638565,
+      "first_name": "Ayush",
+      "username": "AyushJangde"
+    },
+    "7631260558": {
+      "id": 7631260558,
+      "first_name": "Ɗeadթool",
+      "username": "SilentButDeadlyX"
+    },
+    "5845254367": {
+      "id": 5845254367,
+      "first_name": "Alien",
+      "username": "AlienPhionex"
+    },
+    "8507127683": {
+      "id": 8507127683,
+      "first_name": "JHANVI",
+      "username": "Jhan5656"
+    },
+    "8353079084": {
+      "id": 8353079084,
+      "first_name": "F U R Y",
+      "username": "PraiseTheFraud"
+    },
+    "1505416555": {
+      "id": 1505416555,
+      "first_name": "Samarendra",
+      "username": "Samarendrasinha21"
+    },
+    "7662486115": {
+      "id": 7662486115,
+      "first_name": "Zyrus",
+      "username": "ZyrusxStudy"
+    },
+    "1125191935": {
+      "id": 1125191935,
+      "first_name": "Technical medico",
+      "username": "Mr_Unique_Achyuth"
+    },
+    "1336114764": {
+      "id": 1336114764,
+      "first_name": "ARYAN",
+      "username": "Greatest_Of_All_the_Time_G_O_A_T"
+    },
+    "7787846216": {
+      "id": 7787846216,
+      "first_name": "ᴀᴋᴀᴢᴀ❄️ あ",
+      "username": "UP3Akaza"
+    },
+    "7371277092": {
+      "id": 7371277092,
+      "first_name": "°❀⋆| 𝑺𝒉𝒊𝒗𝒂𝒏𝒊 ᥫ᭡",
+      "username": "Shivi_Ig"
+    },
+    "2083912476": {
+      "id": 2083912476,
+      "first_name": "Mr",
+      "username": "Alpha_12345678910"
+    },
+    "6976611030": {
+      "id": 6976611030,
+      "first_name": "Marcus",
+      "username": "Marcus4417"
+    },
+    "6772160099": {
+      "id": 6772160099,
+      "first_name": "—͟͞͞Jᴀᴄᴋs !!",
+      "username": "JACKS17"
+    },
+    "1275737140": {
+      "id": 1275737140,
+      "first_name": "Ꮧℓoηє ƙuи",
+      "username": "alone_kun"
+    },
+    "6163128641": {
+      "id": 6163128641,
+      "first_name": "𝑺𝒂𝒕𝒚𝒂𝒎𓃵",
+      "username": ""
+    },
+    "8114359828": {
+      "id": 8114359828,
+      "first_name": "BATMAN",
+      "username": ""
+    },
+    "6111053232": {
+      "id": 6111053232,
+      "first_name": "Ayush",
+      "username": "Ayyyyuuussh"
+    },
+    "6095820672": {
+      "id": 6095820672,
+      "first_name": "KRRISH",
+      "username": "krrishuuuuuuuuu"
+    },
+    "8210971271": {
+      "id": 8210971271,
+      "first_name": "Rohan",
+      "username": "Rohan987000"
+    },
+    "2021610274": {
+      "id": 2021610274,
+      "first_name": "Aditya",
+      "username": "Adityayadav2890"
+    },
+    "8136018064": {
+      "id": 8136018064,
+      "first_name": "Anjali!!",
+      "username": "lowdrift"
+    },
+    "7439862405": {
+      "id": 7439862405,
+      "first_name": "Anuj sharma",
+      "username": "Anuj_sharma05"
+    },
+    "1915462304": {
+      "id": 1915462304,
+      "first_name": "༄🌙『🔥⃝𑫏ᤌꪓ ത𑄛ധᰈᮀ།❥❥>💚",
+      "username": "Kdboi_25"
+    },
+    "7962255988": {
+      "id": 7962255988,
+      "first_name": "句 | Kᴜᴢᴇ",
+      "username": "TheWraither"
+    },
+    "2057716350": {
+      "id": 2057716350,
+      "first_name": "KEN PROPHECY ~",
+      "username": "KEN_PROPHECY"
+    }
+  },
+  "known_groups": {
+    "8485274569": {
+      "id": 8485274569,
+      "title": "8485274569"
+    },
+    "-4914597405": {
+      "id": -4914597405,
+      "title": "."
+    },
+    "-1003143591680": {
+      "id": -1003143591680,
+      "title": "."
+    },
+    "6929401281": {
+      "id": 6929401281,
+      "title": "6929401281"
+    },
+    "-1003274871745": {
+      "id": -1003274871745,
+      "title": "Bot status"
+    },
+    "-1003136825274": {
+      "id": -1003136825274,
+      "title": "𝐍𝐞𝐰 𝐙𝐞𝐚𝐥𝐚𝐧𝐝 (𝐂𝐂𝐋)"
+    }
+  },
+  "mg_map": {
+    "-1003571357707:353": {
+      "user_id": 8006318210,
+      "reg_id": "8bdcc3b0"
+    },
+    "-1003571357707:365": {
+      "user_id": 7995262033,
+      "reg_id": "0485a6dd"
+    },
+    "-1003571357707:375": {
+      "user_id": 8014309669,
+      "reg_id": "8ca32680"
+    },
+    "-1003571357707:377": {
+      "user_id": 8108154162,
+      "reg_id": "6e5eae86"
+    },
+    "-1003571357707:380": {
+      "user_id": 8540932048,
+      "reg_id": "e10c19ab"
+    },
+    "-1003571357707:381": {
+      "user_id": 7343683772,
+      "reg_id": "a82be284"
+    },
+    "-1003571357707:384": {
+      "user_id": 8267054355,
+      "reg_id": "d32d9abe"
+    },
+    "-1003571357707:410": {
+      "user_id": 8523739681,
+      "reg_id": "ef20692c"
+    },
+    "-1003571357707:415": {
+      "user_id": 1096324142,
+      "reg_id": "2649f3db"
+    },
+    "-1003571357707:422": {
+      "user_id": 1237753731,
+      "reg_id": "2b525a6c"
+    },
+    "-1003571357707:430": {
+      "user_id": 8040919125,
+      "reg_id": "897b5be9"
+    },
+    "-1003571357707:436": {
+      "user_id": 6728775009,
+      "reg_id": "572833d1"
+    },
+    "-1003571357707:452": {
+      "user_id": 7978013310,
+      "reg_id": "5f30ed56"
+    },
+    "-1003571357707:458": {
+      "user_id": 8199739563,
+      "reg_id": "f3d92e9e"
+    },
+    "-1003571357707:459": {
+      "user_id": 8433896632,
+      "reg_id": "256cc9b6"
+    },
+    "-1003571357707:470": {
+      "user_id": 8479985151,
+      "reg_id": "62a8fab0"
+    },
+    "-1003571357707:481": {
+      "user_id": 7760428650,
+      "reg_id": "f16199f5"
+    },
+    "-1003571357707:517": {
+      "user_id": 1923032408,
+      "reg_id": "c569ea07"
+    },
+    "-1003571357707:524": {
+      "user_id": 7747034961,
+      "reg_id": "a7f8cec6"
+    },
+    "-1003571357707:545": {
+      "user_id": 8228290186,
+      "reg_id": "38d72039"
+    },
+    "-1003571357707:549": {
+      "user_id": 8057515910,
+      "reg_id": "ba804185"
+    },
+    "-1003571357707:555": {
+      "user_id": 776361017,
+      "reg_id": "308541b3"
+    },
+    "-1003571357707:576": {
+      "user_id": 7961042242,
+      "reg_id": "74d2e44f"
+    },
+    "-1003571357707:594": {
+      "user_id": 1473342200,
+      "reg_id": "841d0ca7"
+    },
+    "-1003571357707:597": {
+      "user_id": 8359323959,
+      "reg_id": "be11a251"
+    },
+    "-1003571357707:639": {
+      "user_id": 830987369,
+      "reg_id": "e7ef90c8"
+    },
+    "-1003571357707:643": {
+      "user_id": 7142058365,
+      "reg_id": "1eee6305"
+    },
+    "-1003571357707:654": {
+      "user_id": 8338008159,
+      "reg_id": "e86143b5"
+    },
+    "-1003571357707:658": {
+      "user_id": 7462442453,
+      "reg_id": "81d19a78"
+    },
+    "-1003571357707:707": {
+      "user_id": 6382283680,
+      "reg_id": "68ee049d"
+    },
+    "-1003571357707:717": {
+      "user_id": 8315916226,
+      "reg_id": "ea4629b6"
+    },
+    "-1003571357707:727": {
+      "user_id": 8391128611,
+      "reg_id": "de33cd9f"
+    },
+    "-1003571357707:730": {
+      "user_id": 722120105,
+      "reg_id": "7ba1d4ca"
+    },
+    "-1003571357707:744": {
+      "user_id": 7530665376,
+      "reg_id": "b45c25aa"
+    },
+    "-1003571357707:746": {
+      "user_id": 7738315891,
+      "reg_id": "0786073c"
+    },
+    "-1003571357707:768": {
+      "user_id": 8049934625,
+      "reg_id": "39a37ced"
+    },
+    "-1003571357707:795": {
+      "user_id": 8234336128,
+      "reg_id": "c5f22f72"
+    },
+    "-1003571357707:887": {
+      "user_id": 7480981150,
+      "reg_id": "900e22e4"
+    },
+    "-1003571357707:955": {
+      "user_id": 964423444,
+      "reg_id": "e157c9a3"
+    },
+    "-1003571357707:969": {
+      "user_id": 1608402038,
+      "reg_id": "4e83e8a6"
+    },
+    "-1003571357707:979": {
+      "user_id": 1994505209,
+      "reg_id": "ff4918ee"
+    },
+    "-1003571357707:980": {
+      "user_id": 7422107306,
+      "reg_id": "c9e16e1a"
+    },
+    "-1003571357707:983": {
+      "user_id": 7350687088,
+      "reg_id": "06b6b479"
+    },
+    "-1003571357707:985": {
+      "user_id": 8420190765,
+      "reg_id": "89f81b14"
+    },
+    "-1003571357707:1003": {
+      "user_id": 8275307900,
+      "reg_id": "b4a41200"
+    },
+    "-1003571357707:1005": {
+      "user_id": 8434479905,
+      "reg_id": "b080e733"
+    },
+    "-1003571357707:1007": {
+      "user_id": 7167530410,
+      "reg_id": "b37d87fa"
+    },
+    "-1003571357707:1009": {
+      "user_id": 5378041046,
+      "reg_id": "c3eeefe9"
+    },
+    "-1003571357707:1010": {
+      "user_id": 7064632109,
+      "reg_id": "7cd55ef5"
+    },
+    "-1003571357707:1015": {
+      "user_id": 7641914661,
+      "reg_id": "1380e62a"
+    },
+    "-1003571357707:1036": {
+      "user_id": 7631260558,
+      "reg_id": "f48154f0"
+    },
+    "-1003571357707:1099": {
+      "user_id": 7953556547,
+      "reg_id": "469415df"
+    },
+    "-1003571357707:1110": {
+      "user_id": 7662486115,
+      "reg_id": "a303292c"
+    },
+    "-1003571357707:1114": {
+      "user_id": 1125191935,
+      "reg_id": "e6cf3acc"
+    },
+    "-1003571357707:1116": {
+      "user_id": 5845254367,
+      "reg_id": "40da5ba8"
+    },
+    "-1003571357707:1124": {
+      "user_id": 8353079084,
+      "reg_id": "2c74815b"
+    },
+    "-1003571357707:1137": {
+      "user_id": 7787846216,
+      "reg_id": "0bae651b"
+    },
+    "-1003571357707:1139": {
+      "user_id": 7371277092,
+      "reg_id": "d41d2692"
+    },
+    "-1003571357707:1143": {
+      "user_id": 2083912476,
+      "reg_id": "7ba72870"
+    },
+    "-1003571357707:1151": {
+      "user_id": 1336114764,
+      "reg_id": "515534bd"
+    },
+    "-1003571357707:2073": {
+      "user_id": 7460266461,
+      "reg_id": "2dd4c27e"
+    },
+    "-1003571357707:2076": {
+      "user_id": 6976611030,
+      "reg_id": "c549209b"
+    },
+    "-1003571357707:2082": {
+      "user_id": 6772160099,
+      "reg_id": "79507d7e"
+    },
+    "-1003571357707:2096": {
+      "user_id": 1275737140,
+      "reg_id": "b0e959bf"
+    },
+    "-1003571357707:2105": {
+      "user_id": 6163128641,
+      "reg_id": "ee802225"
+    },
+    "-1003571357707:2108": {
+      "user_id": 8114359828,
+      "reg_id": "2d361f57"
+    },
+    "-1003571357707:2110": {
+      "user_id": 6111053232,
+      "reg_id": "b4fa3614"
+    },
+    "-1003571357707:2392": {
+      "user_id": 6095820672,
+      "reg_id": "28499ec5"
+    },
+    "-1003571357707:3000": {
+      "user_id": 8210971271,
+      "reg_id": "2120fa8b"
+    },
+    "-1003571357707:3036": {
+      "user_id": 8136018064,
+      "reg_id": "6cfb29b4"
+    },
+    "-1003571357707:3037": {
+      "user_id": 2021610274,
+      "reg_id": "2380bdcc"
+    },
+    "-1003571357707:3040": {
+      "user_id": 7439862405,
+      "reg_id": "17da2037"
+    },
+    "-1003571357707:3044": {
+      "user_id": 1915462304,
+      "reg_id": "398ac7a2"
+    },
+    "-1003571357707:3046": {
+      "user_id": 7962255988,
+      "reg_id": "6d16d04b"
+    },
+    "-1003571357707:3051": {
+      "user_id": 7460266461,
+      "reg_id": "39fa0427"
+    },
+    "-1003571357707:3155": {
+      "user_id": 8490459993,
+      "reg_id": "1a55aac8"
+    },
+    "-1003571357707:3162": {
+      "user_id": 7451838163,
+      "reg_id": "21bbdfac"
+    },
+    "-1003571357707:3169": {
+      "user_id": 2057716350,
+      "reg_id": "cf42e25d"
+    }
+  },
+  "management_chat_id": -1003571357707,
+  "admin_add_tmp": {
+    "7460266461": {
+      "step": "await_username"
+    },
+    "1766243373": {
+      "step": "await_username"
+    }
+  },
+  "pending_remove": {},
+  "reset_tokens": {},
+  "last_broadcast": {
+    "chat_id": -1003571357707,
+    "message_id": 326,
+    "title": "Gaming zone Premier League season 4 now registration open"
+  }
+}
