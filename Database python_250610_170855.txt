@@ -1,0 +1,67 @@
+import aiosqlite
+
+DB_PATH = "crickstrike.db"
+
+async def db_init():
+    async with aiosqlite.connect(DB_PATH) as db:
+        await db.execute('''
+            CREATE TABLE IF NOT EXISTS users (
+                user_id INTEGER PRIMARY KEY,
+                display_name TEXT NOT NULL
+            )
+        ''')
+        await db.execute('''
+            CREATE TABLE IF NOT EXISTS matches (
+                chat_id INTEGER PRIMARY KEY,
+                state TEXT NOT NULL
+            )
+        ''')
+        await db.execute('''
+            CREATE TABLE IF NOT EXISTS teams (
+                chat_id INTEGER,
+                team_no INTEGER,
+                user_id INTEGER,
+                is_captain INTEGER DEFAULT 0,
+                PRIMARY KEY(chat_id, team_no, user_id)
+            )
+        ''')
+        await db.commit()
+
+async def save_display_name(user_id: int, display_name: str):
+    async with aiosqlite.connect(DB_PATH) as db:
+        await db.execute(
+            'INSERT OR REPLACE INTO users (user_id, display_name) VALUES (?, ?)',
+            (user_id, display_name)
+        )
+        await db.commit()
+
+async def get_display_name(user_id: int):
+    async with aiosqlite.connect(DB_PATH) as db:
+        async with db.execute(
+            'SELECT display_name FROM users WHERE user_id=?', (user_id,)
+        ) as cursor:
+            row = await cursor.fetchone()
+            return row[0] if row else None
+
+async def add_team_member(chat_id: int, team_no: int, user_id: int, is_captain: int = 0):
+    async with aiosqlite.connect(DB_PATH) as db:
+        await db.execute(
+            'INSERT OR IGNORE INTO teams (chat_id, team_no, user_id, is_captain) VALUES (?, ?, ?, ?)',
+            (chat_id, team_no, user_id, is_captain)
+        )
+        await db.commit()
+
+async def get_team_members(chat_id: int, team_no: int):
+    async with aiosqlite.connect(DB_PATH) as db:
+        async with db.execute(
+            'SELECT user_id, is_captain FROM teams WHERE chat_id=? AND team_no=?', (chat_id, team_no)
+        ) as cursor:
+            return await cursor.fetchall()
+
+async def get_user_by_display_name(display_name: str):
+    async with aiosqlite.connect(DB_PATH) as db:
+        async with db.execute(
+            'SELECT user_id FROM users WHERE display_name=?', (display_name,)
+        ) as cursor:
+            row = await cursor.fetchone()
+            return row[0] if row else None
